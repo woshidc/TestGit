@@ -16,7 +16,9 @@ class MainActivity : AppCompatActivity() {
             textview.text="${++num}"
         }
 
-
+        button2.setOnClickListener {
+            textview.text="${--num}"
+        }
 
     }
 }
