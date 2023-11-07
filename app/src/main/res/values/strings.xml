@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">TestGit</string>
+    <string name="str_num">0</string>
+    <string name="button_add">+1</string>
+    <string name="button_minus">-1</string>
 </resources>
