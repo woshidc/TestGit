@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
+    id 'kotlin-android-extensions'      //添加这个插件，就可以直接使用控件id了
 }
 
 android {
