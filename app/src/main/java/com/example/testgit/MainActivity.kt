@@ -1,5 +1,6 @@
 package com.example.testgit
 
+import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
@@ -21,6 +22,9 @@ class MainActivity : AppCompatActivity() {
         }
 
         //添加代码01
+
+        //添加代码02
+        textview.setTextColor(Color.GREEN)
         
 
     }
